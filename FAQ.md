@@ -14,3 +14,7 @@ A: We will use these meetings for project presentations, networking among teams,
 
 Q: I would like to contribute as a volunteer/mentor, is this possible?   
 A: Yes! Please sign up [here](https://sscs.ieee.org/volunteer-opportunities#SSCD).
+
+Q: Can I make changes to my proposal notebook after the deadline?
+A: No, participants are asked to not make any changes to their proposal notebooks after the deadline. All submissions will be   
+   merged after the deadline has passed.
